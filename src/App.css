@@ -1,0 +1,26 @@
+.App {
+    background-color:black;
+    color:white;
+    min-height:100vh;
+  
+}
+
+.Homepage {
+    margin-top:100px;
+    text-align:center;
+    height:100vh;
+}
+
+.preferences {
+    margin-top:100px;
+    height:100vh;
+  
+}
+
+.userprofile {
+    height:100vh;
+}
+
+.match {
+    height:'100vh';
+}
