@@ -8,7 +8,7 @@
 .Homepage {
     margin-top:100px;
     text-align:center;
-    height:100vh;
+    min-height:100vh;
 }
 
 .preferences {

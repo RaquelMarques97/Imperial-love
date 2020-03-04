@@ -7,8 +7,11 @@ function HomePage() {
   return (
     <div className="Homepage">
       <h1>Make the first move!</h1>
+      <img src='https://i.pinimg.com/originals/39/1e/18/391e18a819289cb0fdf8d856ccb2d0fe.jpg' height='300px'></img>
+      <p> Don't be shy... you never know where love is...</p>
 
       <>
+        
         <style type="text/css">
           {`
     .btn-flat {
