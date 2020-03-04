@@ -1,3 +1,5 @@
+React App developed in 24h, the theme was a dating app for Star War character fans.
+
 deployed:https://angry-brown-633760.netlify.com/#/my-profile
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
