@@ -1,16 +1,12 @@
 
 # Imperial Love
-is a React App developed in 24h for a school hackathon, the theme was a dating app for Star War character fans.
+is a React App developed in 24h for a school hackathon, the theme was a dating app for Star War character fans to choose the best match of the searching results according to their profiles.
 
-The Technologies used are React.JS and CSS and Bootstrap.
+The Technologies used are React.JS, CSS and Bootstrap.
 
-deployed:https://angry-brown-633760.netlify.com/#/home
+deployed:https://angry-brown-633760.netlify.com/
 
-## Getting Started
-To run this project, after cloned you have to:
 
-yarn install
-yarn start
 
 
 
