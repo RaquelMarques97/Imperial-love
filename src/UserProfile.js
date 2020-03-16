@@ -46,11 +46,12 @@ class UserProfile extends React.Component {
         e.preventDefault();
 
         localStorage.setItem('profile', JSON.stringify(this.state));
+        
     }
 
 
     render() {
-        console.log(this.state)
+        // console.log(this.state)
         return (
             <Container className='userprofile'>
                 <h1>YOUR PROFILE</h1>
