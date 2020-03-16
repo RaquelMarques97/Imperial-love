@@ -79,14 +79,14 @@ class Match extends Component {
         console.log(this.state.matches)
         return (
             <div className='match'>
-            <div>Hello <ActualUser /> you got these options:</div>
+            <div style={{fontSize:'50px'}}>Hello <ActualUser /> you got these options:</div>
                 <div style={{ display: 'flex', flexWrap: 'wrap', marginLeft: '7%'}}>
                
                 
                 {this.state.matches.map((element) => {
                      return (
                     <Card style={{width:'400px', margin:'50px'}}>
-                    <Card.Img variant="top" src={element.image} style={{height:'300px', width:'250px', textAlign:'center'}} />
+                    <Card.Img variant="top" src={element.image}  />
                     <Card.Body style={{backgroundColor:'grey',height:'auto'}}>
                         <Card.Title>Name: {(element.name)}</Card.Title>
                         <Card.Text style={{color:'white'}}>

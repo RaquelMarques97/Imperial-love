@@ -19,7 +19,7 @@ class Preferences extends Component {
 
     componentDidMount() {
         this.getPersons();
-        console.log(this.starWarsPersons)
+        // console.log(this.starWarsPersons)
     }
 
     getPersons = () => {
@@ -67,7 +67,7 @@ class Preferences extends Component {
     }
 
     render() {
-        console.log(this.state)
+        // console.log(this.state)
 
         return (
             <Container className='preferences'>
